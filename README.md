@@ -1,4 +1,9 @@
-## Hi there 👋
+<!--## Hi there 👋-->
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=216E39&center=true&vCenter=true&width=435&lines=koko)](https://git.io/typing-svg)
+  <img src="https://raw.githubusercontent.com/koko-rin/koko-rin/output/github-contribution-grid-snake.svg" />
+</div>
 
 <!--
 **koko-rin/koko-rin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
